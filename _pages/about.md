@@ -11,8 +11,8 @@ Hello! I am currently a research assistant at Computer Science at New York Unive
 Recent Activity
 ======
 <font color="#0000FF">I will attend KDD 2024 in Barcelona during August 25-28, looking forward to chats!</font><br>
-
 <font color="#FF0000">I am actively looking for a PhD position in Spring/Fall 2025.</font>
+
 
 Research Interest
 ======
@@ -20,6 +20,7 @@ My research interest now includes:
 1. Graph Foundation Models
 2. Multimodal Graphs Learning
 3. AI + Health/Medical
+
 
 Publications
 ======
