@@ -10,7 +10,7 @@ Hello! I am currently a research assistant at Computer Science at New York Unive
 
 Recent Activity
 ======
-<font color="#dd0000">I will attend KDD 2024 in Barcilona, looking forward to chats! </font></br >
+<font color="#dd0000">I will attend KDD 2024 in Barcelona during Augst25-28, looking forward to chats! </font></br >
 
 
 Publications
