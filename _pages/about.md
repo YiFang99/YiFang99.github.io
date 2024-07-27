@@ -8,10 +8,11 @@ redirect_from:
 ---
 Hello! I am currently a research assistant at Computer Science at New York University (Shanghai), under the supervision of Prof.[Qiaoyu Tan](https://qiaoyu-tan.github.io/) in the Data Intelligence and Reasoning Lab (DIRLab). I am also fortunate to collaborate with Prof.[Jiawei Han](http://dm1.cs.uiuc.edu/index.html)'s group during the summer. I received my B.Eng from Wuhan University.
 
-# Recent Activity
-<font color="#0000FF">I will attend KDD 2024 in Barcelona during August 25-28, looking forward to chats!</font><br>
-<font color="#FF0000">I am actively looking for a PhD position in Spring/Fall 2025.</font>
+## Recent Activity
+<font color="#0000FF">I will attend KDD 2024 in Barcelona during August 25-28, please get in touch for coffee chats!</font>
 
+<font color="#FF0000">I am actively looking for a PhD position in Spring/Fall 2025 in the US.</font>
+<br>
 
 # Research Interest
 My research interest now includes:
@@ -28,7 +29,7 @@ My research interest now includes:
 - **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**<br>
   Yuhao Xu, Xinqi Liu, Keyu Duan, **Yi Fang**, Yu-Neng Chuang, Daochen Zha, and Qiaoyu Tan. <br>
   arXiv:2406.08310, 2024. [PDF](https://arxiv.org/abs/2406.08310) <br>
-  
+
 **2024**
 - **GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models**<br>
   **Yi Fang**, Dongzhe Fan, Daochen Zha, and Qiaoyu Tan.<br>
@@ -43,12 +44,12 @@ My research interest now includes:
   2024.6 - Now
 
 # Service
-Reviewer: KDD
+Reviewer: KDD'2024
 
 # Miscellaneous
-I love cooking and I love Costco
-I enjoy classical music a lot. I just start to learn a little bit violin but it is realllly hard!!
-My Favourite singer is Jacky Cheung. He is God of Songs absolutely!
+I love cooking and I love Costco. <br>
+I enjoy classical music a lot. I just start to learn a little bit violin but it is realllly hard!!<br>
+My Favourite singer is **Jacky Cheung**. He is God of Songs absolutely!
 
 
 
