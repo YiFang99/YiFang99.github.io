@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /archive
 title: "Yi Fang"
 author_profile: true
 redirect_from: 
