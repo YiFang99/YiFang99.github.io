@@ -12,7 +12,4 @@ redirect_from:
 <head>
   <meta http-equiv="refresh" content="0; url=/images/YiFang_Resume.pdf">
 </head>
-<body>
-  <p>If you are not redirected automatically, follow this <a href="/images/YiFang_Resume.pdf">link to the CV</a>.</p>
-</body>
 </html>
