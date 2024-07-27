@@ -10,9 +10,9 @@ redirect_from:
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=/assets/cv.pdf">
+  <meta http-equiv="refresh" content="0; url=/images/YiFang_Resume.pdf">
 </head>
 <body>
-  <p>If you are not redirected automatically, follow this <a href="/assets/cv.pdf">link to the CV</a>.</p>
+  <p>If you are not redirected automatically, follow this <a href="/images/YiFang_Resume.pdf">link to the CV</a>.</p>
 </body>
 </html>
