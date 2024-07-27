@@ -6,9 +6,8 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
-# Full Publications[https://scholar.google.com/citations?user=lq0B0_EAAAAJ&hl=en]
+**[Full Publications](https://scholar.google.com/citations?user=lq0B0_EAAAAJ&hl=en)**
 
-# Selected Publications
 **Preprints**
 - **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**<br>
   **Yi Fang**, Dongzhe Fan, Sirui Ding, Ninghao Liu, and Qiaoyu Tan. <br>
