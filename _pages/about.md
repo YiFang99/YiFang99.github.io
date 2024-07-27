@@ -8,11 +8,9 @@ redirect_from:
 ---
 Hello! I am currently a research assistant at Computer Science at New York University (Shanghai), under the supervision of Prof.[Qiaoyu Tan](https://qiaoyu-tan.github.io/) in the Data Intelligence and Reasoning Lab (DIRLab). I am also fortunate to collaborate with Prof.[Jiawei Han](http://dm1.cs.uiuc.edu/index.html)'s group during the summer. I received my B.Eng from Wuhan University.
 
-## Recent Activity
-<font color="#0000FF">I will attend KDD 2024 in Barcelona during August 25-28, please get in touch for coffee chats!</font>
-
-<font color="#FF0000">I am actively looking for a PhD position in Spring/Fall 2025 in the US.</font>
-<br>
+# Recent Activity
+<font color="#0000FF">I'll be at KDD 2024 in Barcelona from August 25-28. Let's meet for coffee chats!</font>
+<font color="#FF0000">I'm actively seeking a PhD position in the US for Spring/Fall 2025.</font>
 
 # Research Interest
 My research interest now includes:
