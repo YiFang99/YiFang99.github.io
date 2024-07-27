@@ -14,10 +14,10 @@ Hello! I am currently a research assistant at Computer Science at New York Unive
 <br>
 
 # Research Interest
-My research interest now includes:
-1. Graph Foundation Models
-2. Multimodal Graphs Learning
-3. AI + Health/Medical
+My research lies at the intersection of large language models, information networks and multi-modal data mining. To be more specific, I focus on how to integrate multimodal data and graph structural information into language models for real world problems.
+- Graph Foundation Models, Graphs Representation Learning
+- Structural Information Enhanced Multimodal Large Language Models
+- AI + Medical/Health
 
 
 # Selected Publications
@@ -39,15 +39,15 @@ My research interest now includes:
   Supervisor: Prof.Qiaoyu Tan<br>
   2023.8 - 2024.6
 - University of Illinois Urbana-Champaign - Research Intern<br>
-  Supervisor: Prof.Jiawei Han, Bowen Jin
+  Supervisor: Prof.Jiawei Han, Bowen Jin<br>
   2024.6 - Now
 
 # Service
 Reviewer: KDD'2024
 
 # Miscellaneous
-I love cooking and I love Costco. <br>
-I enjoy classical music a lot. I just start to learn a little bit violin but it is realllly hard!!<br>
+I love cooking and I love shopping at Costco! <br>
+I enjoy classical music a lot. I just started to learn a little bit violin but it is realllly hard!!<br>
 My Favourite singer is **Jacky Cheung**. He is God of Songs absolutely!
 
 
