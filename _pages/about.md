@@ -2,9 +2,6 @@
 permalink: /
 title: "Yi Fang"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 Hello! I am currently a research assistant at Computer Science at New York University (Shanghai), under the supervision of Prof.[Qiaoyu Tan](https://qiaoyu-tan.github.io/) in the Data Intelligence and Reasoning Lab (DIRLab). I am also fortunate to collaborate with Prof.[Jiawei Han](http://dm1.cs.uiuc.edu/index.html)'s group during the summer. I received my B.Eng from Wuhan University.
 

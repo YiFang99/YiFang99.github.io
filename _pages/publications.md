@@ -1,10 +1,8 @@
 ---
-permalink: /archive
-title: "Yi Fang"
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 **[Full Publications](https://scholar.google.com/citations?user=lq0B0_EAAAAJ&hl=en)**
 
