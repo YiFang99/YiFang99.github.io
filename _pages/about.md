@@ -6,7 +6,6 @@ author_profile: true
 Hello! I am currently a research assistant at Computer Science at New York University (Shanghai), under the supervision of Prof.[Qiaoyu Tan](https://qiaoyu-tan.github.io/) in the Data Intelligence and Reasoning Lab (DIRLab). I am also fortunate to collaborate with Prof.[Jiawei Han](http://dm1.cs.uiuc.edu/index.html)'s group during the summer. I received my B.Eng from Wuhan University.
 
 # Recent Activity
-- **<font color="#0000FF">I'll be at KDD 2024 in Barcelona from August 25-28. Let's meet for coffee chats!</font>**
 - **<font color="#FF0000">I'm actively seeking a PhD position in the US for Spring/Fall 2025.</font>**
 <br>
 
@@ -26,10 +25,17 @@ My research lies at the intersection of large language models, information netwo
   Yuhao Xu, Xinqi Liu, Keyu Duan, **Yi Fang**, Yu-Neng Chuang, Daochen Zha, and Qiaoyu Tan. <br>
   arXiv:2406.08310, 2024. [PDF](https://arxiv.org/abs/2406.08310) <br>
 
+**2025**
+- **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**<br>
+  **Yi Fang**, Dongzhe Fan, Sirui Ding, Ninghao Liu, and Qiaoyu Tan. <br>
+  The 18th ACM International Conference on Web Search and Data Mining (WSDM’25) [PDF](https://arxiv.org/abs/2406.12052)
+  
 **2024**
 - **GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models**<br>
   **Yi Fang**, Dongzhe Fan, Daochen Zha, and Qiaoyu Tan.<br>
   ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD’24). [PDF](https://arxiv.org/abs/2406.11945)
+  
+
 
 # Experience
 - New York University Shanghai - Research Assistant<br>
@@ -37,7 +43,9 @@ My research lies at the intersection of large language models, information netwo
   2023.8 - 2024.6
 - University of Illinois Urbana-Champaign - Research Intern<br>
   Supervisor: Prof.Jiawei Han, Bowen Jin<br>
-  2024.6 - Now
+  2024.6 - now
+- Alibaba - Research Intern<br>
+  2024.9 - now
 
 # Service
 Reviewer: KDD'2024
