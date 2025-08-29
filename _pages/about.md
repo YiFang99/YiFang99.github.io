@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Yi Fang"
+title: "Welcome to Yi’s Homepage!"
 author_profile: true
 ---
-Hello! I am currently a research assistant at Computer Science at New York University (Shanghai), under the supervision of Prof.[Qiaoyu Tan](https://qiaoyu-tan.github.io/) in the Data Intelligence and Reasoning Lab (DIRLab). I am also fortunate to collaborate with Prof.[Jiawei Han](http://dm1.cs.uiuc.edu/index.html)'s group during the summer. I received my B.Eng from Wuhan University.
+I am a first-year Ph.D student in [the Department of Computer Science at Virginia Tech](https://cs.vt.edu/), fortunately advised by [Dr.Xuan Wang](https://xuanwang91.github.io/). I am also a student member of [the Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT. 
 
 # Recent Activity
 - **<font color="#FF0000">I'm actively seeking a PhD position in the US for Spring/Fall 2025.</font>**
