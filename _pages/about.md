@@ -3,29 +3,25 @@ permalink: /
 title: "Welcome to Yi’s Homepage!"
 author_profile: true
 ---
-I am a first-year Ph.D student in [the Department of Computer Science at Virginia Tech](https://cs.vt.edu/), fortunately advised by [Dr.Xuan Wang](https://xuanwang91.github.io/). I am also a student member of [the Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT. 
+I am a first-year Ph.D student in [the Department of Computer Science at Virginia Tech](https://cs.vt.edu/), fortunately advised by [Dr.Xuan Wang](https://xuanwang91.github.io/). I am also a student member of [the Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT. Before that, I received my B.S. in computer science from Wuhan University.
 
-# Recent Activity
-- **<font color="#FF0000">I'm actively seeking a PhD position in the US for Spring/Fall 2025.</font>**
-<br>
 
 # Research Interest
-My research lies at the intersection of large language models, information networks and multi-modal data mining. To be more specific, I focus on how to integrate multimodal data and graph structural information into language models for real world problems.
-- Graph Foundation Models, Graphs Representation Learning
-- Structural Information Enhanced Multimodal Large Language Models
-- AI + Medical/Health
+My primary research interests are Graph Data Mining, NLP, and AI for Sciences. <br>
+- **Structural Information Enhanced Multimodal Models**<br>
+  * Information extraction, knowledge graph construction from multimodal sources<br>
+  * Multimodal graph foundation models, Graphs Representation Learning<br>
+- **Reasoning, Planning and Tool usage with Language Model Agents**<br>
 
 
 # Selected Publications
 **Preprints**
-- **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**<br>
-  **Yi Fang**, Dongzhe Fan, Sirui Ding, Ninghao Liu, and Qiaoyu Tan. <br>
-  arXiv:2406.12052, 2024. [PDF](https://arxiv.org/abs/2406.12052)
 - **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**<br>
   Yuhao Xu, Xinqi Liu, Keyu Duan, **Yi Fang**, Yu-Neng Chuang, Daochen Zha, and Qiaoyu Tan. <br>
   arXiv:2406.08310, 2024. [PDF](https://arxiv.org/abs/2406.08310) <br>
 
 **2025**
+- **Large language models for disease diagnosis: A scoping review**
 - **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**<br>
   **Yi Fang**, Dongzhe Fan, Sirui Ding, Ninghao Liu, and Qiaoyu Tan. <br>
   The 18th ACM International Conference on Web Search and Data Mining (WSDM’25) [PDF](https://arxiv.org/abs/2406.12052)
