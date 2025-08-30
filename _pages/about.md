@@ -13,29 +13,3 @@ My primary research interests are Graph Data Mining, NLP, and AI for Sciences. <
   * Multimodal graph foundation models, Graphs Representation Learning<br>
 - **Reasoning, Planning and Tool usage with Language Model Agents**<br>
   * 
-
-
-
-
-
-# Experience
-- New York University Shanghai - Research Assistant<br>
-  Supervisor: Prof.Qiaoyu Tan<br>
-  2023.8 - 2024.6
-- University of Illinois Urbana-Champaign - Research Intern<br>
-  Supervisor: Prof.Jiawei Han, Bowen Jin<br>
-  2024.6 - now
-- Alibaba - Research Intern<br>
-  2024.9 - now
-
-# Service
-Reviewer: KDD'2024
-
-# Miscellaneous
-I love cooking and I love shopping at Costco! <br>
-I enjoy classical music a lot. I just started to learn a little bit violin but it is realllly hard!!<br>
-My Favourite singer is **Jacky Cheung**. He is God of Songs absolutely!
-
-
-
-# News
