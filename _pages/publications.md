@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**[Full Publications](https://scholar.google.com/citations?user=lq0B0_EAAAAJ&hl=en)**
+**[Full Publications at Google Scholar](https://scholar.google.com/citations?user=lq0B0_EAAAAJ&hl=en)**
 
 **Preprints**
 - **Mlaga: Multimodal large language and graph assistant**<br>
