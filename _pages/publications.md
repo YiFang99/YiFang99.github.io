@@ -26,8 +26,8 @@ author_profile: true
   **Yi Fang**, Dongzhe Fan, Sirui Ding, Ninghao Liu, and Qiaoyu Tan. <br>
   The 18th ACM International Conference on Web Search and Data Mining **(WSDM’25)** [PDF](https://arxiv.org/abs/2406.12052)
 
-- **Graphgpt-O: Synergistic Multimodal Comprehension and Generation on Graphs**
-  **Yi Fang***, Bowen Jin*, Jiacheng Shen*, Sirui Ding, Qiaoyu Tan, Jiawei Han.
+- **Graphgpt-O: Synergistic Multimodal Comprehension and Generation on Graphs**<br>
+  **Yi Fang***, Bowen Jin*, Jiacheng Shen*, Sirui Ding, Qiaoyu Tan, Jiawei Han.<br>
   Proceedings of the Computer Vision and Pattern Recognition Conference **(CVPR'25)** [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_GRAPHGPT-O_Synergistic_Multimodal_Comprehension_and_Generation_on_Graphs_CVPR_2025_paper.pdf)
   
 **2024**
