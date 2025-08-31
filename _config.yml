@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yi Fang"
 title_separator          : "-"
 name                     : &name "Yi Fang"
-description              : &description "Research Assistant @NYU Shanghai"
+description              : &description "PhD student @VT"
 url                      : https://YiFang99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YiFang99/YiFang99.github.io"
@@ -25,15 +25,14 @@ author:
   name             : "Yi Fang"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant @NYU Shanghai"
-  location         : "Shanghai, China"
-  employer         : "New York University"
+  location         : "Blacksburg, China"
+  employer         : "Virginia Tech"
   uri              : # URL
-  email            : "yf2722@nyu.edu" 
+  email            : "yif@vt.edu" 
   linkedin         : "www.linkedin.com/in/yi-fang-70519124a"
   github           : "https://github.com/YiFang99"
   Google Scholar   : "https://scholar.google.com/citations?user=lq0B0_EAAAAJ&hl=en"
-  twitter          : # 
-  zhihu            : # 
+
 
 
 # Site Settings
@@ -253,7 +252,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+# mimic  Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
