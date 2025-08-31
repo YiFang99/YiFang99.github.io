@@ -12,4 +12,9 @@ My primary research interests are Graph Data Mining, NLP, and AI for Sciences. <
   * Information extraction, knowledge graph construction from multimodal sources<br>
   * Multimodal graph foundation models, Graphs Representation Learning<br>
 - **Reasoning, Planning and Tool usage with Language Model Agents**<br>
-  * 
+  * Graph-Structured Knowledge Enhanced Reasoning<br>
+  * Multimodal Scientific Agent Architectures<br>
+  * Dynamic Tool Integration and Meta-Planning<br>
+ - **Science Foundation Models for multiple modalities**<br>
+   * Unified Multimodal Architecture for Scientific Data<br>
+   * Multimodal Scientific Pretraining Strategies<br>
