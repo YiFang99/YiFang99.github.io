@@ -8,7 +8,7 @@ author_profile: true
 
 **Preprints**
 - **BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models**<br>
-  **Yi Fang***, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, Xuan Wang.<br>
+  **Yi Fang**, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, Xuan Wang.<br>
   **preprint** [PDF](https://www.arxiv.org/abs/2512.00283) <br>
   
 
