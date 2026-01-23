@@ -10,7 +10,10 @@ author_profile: true
 - **BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models**<br>
   **Yi Fang**, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, Xuan Wang.<br>
   **preprint** [PDF](https://www.arxiv.org/abs/2512.00283) <br>
-  
+
+- **Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs**<br>
+  Meng Lu, Ran Xu, **Yi Fang**, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, Xuan Wang.<br>
+  **preprint** [PDF](https://arxiv.org/abs/2511.19773) <br>
 
 
 **2025**
