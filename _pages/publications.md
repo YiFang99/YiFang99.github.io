@@ -22,7 +22,7 @@ author_profile: true
   **npj Artificial Intelligence** [PDF](https://arxiv.org/abs/2406.08310) <br>
   
 - **Graphgpt-O: Synergistic Multimodal Comprehension and Generation on Graphs**<br>
-  **Yi Fang***, Bowen Jin*, Jiacheng Shen*, Sirui Ding, Qiaoyu Tan, Jiawei Han.<br>
+  **Yi Fang**, Bowen Jin, Jiacheng Shen, Sirui Ding, Qiaoyu Tan, Jiawei Han.<br>
   Proceedings of the Computer Vision and Pattern Recognition Conference **(CVPR'25)** [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_GRAPHGPT-O_Synergistic_Multimodal_Comprehension_and_Generation_on_Graphs_CVPR_2025_paper.pdf)
   
 - **Graphicl: Unlocking graph learning potential in llms through structured prompt design**<br>
