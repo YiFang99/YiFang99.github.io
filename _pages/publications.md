@@ -11,6 +11,12 @@ author_profile: true
   **Yi Fang**, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, Xuan Wang.<br>
   **Proceedings of the Computer Vision and Pattern Recognition Conference **(CVPR'26)**** [PDF](https://www.arxiv.org/abs/2512.00283) <br>
 
+- **Mlaga: Multimodal large language and graph assistant**<br>
+  Dongzhe Fan, **Yi Fang**, Jiajin Liu, Djellel Difallah, Qiaoyu Tan<br>
+
+- **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**<br>
+  Yuhao Xu, Xinqi Liu, Keyu Duan, **Yi Fang**, Yu-Neng Chuang, Daochen Zha, and Qiaoyu Tan. <br>
+
 
 **2026**
 - **Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs**<br>
@@ -35,9 +41,6 @@ author_profile: true
   **Yi Fang**, Dongzhe Fan, Sirui Ding, Ninghao Liu, and Qiaoyu Tan. <br>
   The 18th ACM International Conference on Web Search and Data Mining **(WSDM’25)** [PDF](https://arxiv.org/abs/2406.12052)
 
-- **Mlaga: Multimodal large language and graph assistant**<br>
-  Dongzhe Fan, **Yi Fang**, Jiajin Liu, Djellel Difallah, Qiaoyu Tan<br>
-
 
   
 **2024**
@@ -45,6 +48,5 @@ author_profile: true
   **Yi Fang**, Dongzhe Fan, Daochen Zha, and Qiaoyu Tan.<br>
   ACM SIGKDD International Conference on Knowledge Discovery and Data Mining **(KDD’24)** [PDF](https://arxiv.org/abs/2406.11945)
 
-- **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**<br>
-  Yuhao Xu, Xinqi Liu, Keyu Duan, **Yi Fang**, Yu-Neng Chuang, Daochen Zha, and Qiaoyu Tan. <br>
+
   
