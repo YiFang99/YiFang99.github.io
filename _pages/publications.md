@@ -15,7 +15,7 @@ author_profile: true
 **2026**
 - **Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs**<br>
   Meng Lu, Ran Xu, **Yi Fang**, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, Xuan Wang.<br>
-  **CVPR** [PDF](https://arxiv.org/abs/2511.19773) <br>
+  Proceedings of the Computer Vision and Pattern Recognition Conference **(CVPR'26)** [PDF](https://arxiv.org/abs/2511.19773) <br>
 
 
 **2025**
