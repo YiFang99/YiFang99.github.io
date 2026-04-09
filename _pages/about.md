@@ -4,9 +4,6 @@ title: " "
 author_profile: true
 ---
 
-# Contact
-Email: yif@vt.edu
-
 # About Me
 I am a first-year Ph.D student in [the Department of Computer Science at Virginia Tech](https://cs.vt.edu/), fortunately advised by [Dr.Xuan Wang](https://xuanwang91.github.io/). I am also a student member of [the Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT. Before that, I received my B.S. in computer science from Wuhan University.
 
