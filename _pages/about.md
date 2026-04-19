@@ -9,15 +9,21 @@ I am a first-year Ph.D student in [the Department of Computer Science at Virgini
 
 # Research
 
-My research focuses on building **composable intelligence systems** by integrating multimodal foundation models with agent-based architectures.
+My research studies **scalable compositional intelligence**, building AI systems by composing foundation models, rather than scaling monolithic ones.
 
-- **Foundation Models**:  
-  I develop multimodal foundation models for structured and scientific data, including graphs and biological sequences, to extend their capability in complex reasoning and representation.
+I approach this problem from three tightly connected perspectives:
 
-- **Agent Systems**:  
-  I study agent-based frameworks for composing multiple models, focusing on tool use, reinforcement learning, and efficient multi-agent communication.
+- **Representation (Foundation Models)**:
+  *How can foundation models be made composable?*
+  I develop multimodal foundation models for structured and scientific data (e.g., graphs and biological sequences), with a focus on modular representations and interfaces that enable reliable composition.
 
-Overall, I aim to understand how **intelligence emerges from the composition of foundation models through agents**, moving beyond monolithic AI systems.
+- **Decision (Agents)**:
+  *How should models be selected and composed?*
+  I study agent-based frameworks that learn to orchestrate foundation models via tool use and reinforcement learning, enabling adaptive and goal-directed composition.
+
+- **Interaction (Systems)**:
+  *How can composition scale across many models and agents?*
+  I design multi-agent communication and coordination mechanisms to support efficient, scalable composition in large systems.
 
 # Service
 - Reviewer: KDD 2025, ICML 2026, ARR 2025
