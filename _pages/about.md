@@ -25,6 +25,8 @@ I approach this problem from three tightly connected perspectives:
   *How can composition scale across many models and agents?*
   I design multi-agent communication and coordination mechanisms to support efficient, scalable composition in large systems.
 
+Together, my work aims to understand how complex intelligence can emerge from the composition of simpler foundation models.
+
 # Service
 - Reviewer: KDD 2025, ICML 2026, ARR 2025
 - Student Volunteer: KDD 2024
