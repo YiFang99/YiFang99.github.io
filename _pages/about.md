@@ -9,9 +9,7 @@ I am a first-year Ph.D student in [the Department of Computer Science at Virgini
 
 # Research
 
-My research studies **scalable compositional intelligence**, building AI systems by composing foundation models, rather than scaling monolithic ones. Composition offers a path to scale that reuses modular components for better generalization and sample efficiency, and naturally aligns with the inherent modularity of many scientific and real-world domains.
-
-I approach this problem from three tightly connected perspectives, moving from composable building blocks, to agents that orchestrate them, to systems that scale composition across them.
+My research studies **scalable compositional intelligence**: building AI systems by composing foundation models rather than scaling monolithic ones, leveraging modularity for stronger generalization and sample efficiency. I approach this from three connected perspectives: composable building blocks, integration mechanisms that combine them, and systems that scale composition across them.
 
 ### ❶ Representation — Foundation Models
 
