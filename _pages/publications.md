@@ -8,10 +8,6 @@ author_profile: true
 
 ## Preprints
 
-- **BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models**<br>
-  **Yi Fang**, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, Xuan Wang.<br>
-  [[PDF](https://www.arxiv.org/abs/2512.00283)]
-
 - **Mlaga: Multimodal Large Language and Graph Assistant**<br>
   Dongzhe Fan, **Yi Fang**, Jiajin Liu, Djellel Difallah, Qiaoyu Tan.
 
@@ -19,6 +15,10 @@ author_profile: true
   Yuhao Xu, Xinqi Liu, Keyu Duan, **Yi Fang**, Yu-Neng Chuang, Daochen Zha, and Qiaoyu Tan.
 
 ## 2026
+
+- **BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models**<br>
+  **Yi Fang**, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, Xuan Wang.<br>
+  International Conference on Machine Learning **(ICML’26)** [[PDF](https://www.arxiv.org/abs/2512.00283)]
 
 - **Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs**<br>
   Meng Lu, Ran Xu, **Yi Fang**, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, Xuan Wang.<br>
