@@ -11,7 +11,7 @@ I am a second-year Ph.D student in [the Department of Computer Science at Virgin
 
 - **(9/1/26)** I am excited to be invited to the [KAAI Workshop 2026: Foundation Models & Agentic Methods for Astrophysical Simulation](https://mcwilliamscenter.github.io/kaai-workshop-2026/) at **Carnegie Mellon University**!
 - **(8/21/26)** I am grateful to lead the project *Efficient Multimodal Long Context Reasoning via Parameter Generation*, supported by an **NSF NAIRR Pilot award** (1 year, 20K GPU Hours on NCSA Delta).
-- **(8/8/26)** I am excited to lead a **tutorial** on *Towards the Science of Multi-Agent Communication* at **NeurIPS 2026**! Looking forward to seeing everyone in Atlanta in December!
+- **(8/8/26)** We are excited to present a **tutorial** of [Towards The Science of Multi-Agent Communication](https://xuanwang91.github.io/) at **NeurIPS 2026**! Looking forward to seeing everyone in Atlanta in December!
 - **(6/30/26)** Our survey [Toward the Science of Multi-Agent Communication: A Comprehensive Survey](https://yifang99.github.io/Towards-The-Science-of-Agent-Communication/) is now available!
 - **(4/30/26)** Our paper [BioArc](https://www.arxiv.org/abs/2512.00283) is accepted by **ICML'26**!
 - **(2/26/25)** Our paper [GraphGPT-O](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_GRAPHGPT-O_Synergistic_Multimodal_Comprehension_and_Generation_on_Graphs_CVPR_2025_paper.pdf) is accepted by **CVPR'25**!
